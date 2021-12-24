@@ -1,0 +1,34 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    border-style:dotted;
+    width:fit-content;
+    font-size:32px;
+    color:#d1bfab
+}
+#status{
+    color:#d1bfab
+}
+canvas{
+    border-style:dotted;
+    margin-top: 30px;
+}
+h4{
+    color:#d1bfab
+
+}
